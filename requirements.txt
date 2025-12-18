@@ -1,1 +1,10 @@
+streamlit
+torch
+transformers
+openai-whisper
+pyannote.audio
+jiwer
+rouge-score
+fpdf
+
 
